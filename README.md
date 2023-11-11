@@ -1,5 +1,6 @@
 # elder-scrolls
 elder-scrolls
-
-cd elder-scrolls-react
+`
+ cd elder-scrolls-react
+`
 npm start
