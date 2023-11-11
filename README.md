@@ -2,8 +2,8 @@
 
 `
  cd elder-scrolls-react
-'
-'
+`
+`
  npm start
 `
 
